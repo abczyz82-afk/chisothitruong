@@ -3,3 +3,4 @@ plotly
 pandas
 vnstock==0.2.8.2
 ta
+beautifulsoup4
